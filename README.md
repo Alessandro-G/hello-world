@@ -1,2 +1,3 @@
 # hello-world
 This is my initial repo on github.
+I opened this github account to support my learning data science through coursera. Hoping to add some new skills to use at work and get an opportunity to "branch" out....
